@@ -3,3 +3,4 @@ yfinance
 textblob
 GoogleNews
 scikit-learn
+matplotlib
